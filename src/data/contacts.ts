@@ -110,9 +110,9 @@ export const contacts: Contacts = {
   },
   emergencyzones: {
     agency: 'UGRC',
-    email: 'GBunce@utah.gov',
-    name: 'Greg Bunce',
-    phone: '801-349-0039',
+    email: 'hchou@utah.gov',
+    name: 'Hank Chou',
+    phone: '435-319-0307',
   },
   ewa: {
     agency: 'DEQ',
@@ -155,13 +155,12 @@ export const contacts: Contacts = {
     email: 'STDavis@utah.gov',
     name: 'Scott Davis',
   },
-  gisac: [
-    {
-      agency: 'UGRC',
-      email: 'gbunce@utah.gov',
-      name: 'Greg Bunce',
-    },
-  ],
+  gisac: {
+    agency: 'UGRC',
+    email: 'lault@utah.gov',
+    name: 'Laura Ault',
+    phone: '801-550-7754',
+  },
   google_imagery: {
     agency: 'UGRC',
     email: 'jdadams@utah.gov',
@@ -292,9 +291,9 @@ export const contacts: Contacts = {
   },
   os_places: {
     agency: 'UGRC',
-    email: 'GBunce@utah.gov',
-    name: 'Greg Bunce',
-    phone: '801-349-0039',
+    email: 'hchou@utah.gov',
+    name: 'Hank Chou',
+    phone: '435-319-0307',
   },
   palletjack: {
     agency: 'UGRC',
@@ -432,9 +431,9 @@ export const contacts: Contacts = {
     phone: '801-538-3665',
   },
   ugrc_director: {
-    email: '-',
+    email: 'lault@utah.gov',
     name: 'Laura Ault',
-    phone: '-',
+    phone: '801-550-7754',
   },
   ugs: {
     agency: 'DNR',
@@ -541,9 +540,9 @@ export const contacts: Contacts = {
   },
   zip_codes: {
     agency: 'UGRC',
-    email: 'GBunce@utah.gov',
-    name: 'Greg Bunce',
-    phone: '801-349-0039',
+    email: 'hchou@utah.gov',
+    name: 'Hank Chou',
+    phone: '435-319-0307',
   },
   dwmrc: [
     {
